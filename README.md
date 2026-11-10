@@ -12,9 +12,9 @@ I share.
 Each map, its data, and how I made it are on the
 [portfolio](https://buschbrian.github.io/projects/#map-challenge-2026).
 
-<a href="https://buschbrian.github.io/projects/#map-challenge-2026"><img src="https://buschbrian.github.io/assets/images/r/western-reservoir-storage-480.webp" width="24%" alt="Reservoir storage across the western states."></a>
-<a href="https://buschbrian.github.io/projects/#map-challenge-2026"><img src="https://buschbrian.github.io/assets/images/r/drought-in-western-basins-480.webp" width="24%" alt="Western drainage basins colored by their share of severe drought."></a>
-<a href="https://buschbrian.github.io/projects/#map-challenge-2026"><img src="https://buschbrian.github.io/assets/images/r/utah-wildfire-starts-by-cause-480.webp" width="24%" alt="Utah wildfire starts by cause, as density over shaded relief."></a>
+<a href="https://buschbrian.github.io/projects/#map-challenge-2026"><img src="https://buschbrian.github.io/assets/images/r/western-reservoir-storage-card-480.webp" width="24%" alt="Reservoir storage across the western states."></a>
+<a href="https://buschbrian.github.io/projects/#map-challenge-2026"><img src="https://buschbrian.github.io/assets/images/r/drought-in-western-basins-card-480.webp" width="24%" alt="Western drainage basins colored by their share of severe drought."></a>
+<a href="https://buschbrian.github.io/projects/#map-challenge-2026"><img src="https://buschbrian.github.io/assets/images/r/utah-wildfire-starts-by-cause-card-480.webp" width="24%" alt="Utah wildfire starts by cause, as density over shaded relief."></a>
 <a href="https://buschbrian.github.io/projects/#map-challenge-2026"><img src="https://buschbrian.github.io/assets/images/r/holmes-zion-panorama-card-480.webp" width="24%" alt="A pen-and-ink panorama of Zion redrawn from elevation data."></a>
 
 <br>
